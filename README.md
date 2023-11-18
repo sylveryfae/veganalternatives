@@ -9,7 +9,7 @@ All recipes can be unlocked organically in the game in the recipe book, mostly t
 
 No original recipe has been overwritten, so people can play non-veganly even with the datapack installed. **The Datapack only gives the option**, the possibility of playing without killing animals nor using drops from them that mimic physical-world exploitation of animals (like honey, wool, etc). The idea was that it allows the datapack to be used in SMPs (Survival MultiPlayer servers) where not everyone wants to play vegan.
 
-**Link to the Ressource Pack to modify in-game item and block names :**
+**[Link to the Ressource Pack to modify in-game item and block names](https://github.com/Sylveryfae/custom-names-for-veganalternatives)**
 (for example changing "honeycomb" into "caramel")
 
 ### Download Instructions
@@ -27,7 +27,7 @@ Toutes les recettes peuvent être débloquées dans le livre de recettes de faç
 
 Aucune recette originelle n'a été changée, donc c'est possible de jouer de façon non-vegan même avec le datapack installé. **Le Datapack apporte juste l'option**, la possibilité de jouer sans tuer d'animaux ni d'utiliser des items qui reproduisent l'exploitation d'animaux dans le monde physique (comme la laine ou le miel). L'idée étant que ça permet au datapack d'être utilisé dans les SMPs (serveurs MultiJoueuxes de Survie) où des personnes ne veulent pas être contrainxes à jouer vegan.
 
-**Lien vers le Ressource Pack pour modifier les noms des items et blocs en jeu :**
+**[Lien vers le Ressource Pack pour modifier les noms des items et blocs en jeu](https://github.com/Sylveryfae/custom-names-for-veganalternatives)**
 (par exemple changer "rayons de miel" en "caramel")
 
 ### Instructions de Téléchargement
