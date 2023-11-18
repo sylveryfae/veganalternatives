@@ -1,0 +1,46 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_poppy": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:poppy"
+                        ]
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        },
+        "has_tulip": {
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:red_tulip"
+                        ]
+                    }
+                ]
+            }
+        },
+        "has_the_recipe": {
+            "conditions": {
+                "recipe": "vgn:wool_red"
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        }
+    },
+    "requirements": [
+        [
+            "has_poppy",
+            "has_tulip",
+            "has_the_recipe"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "vgn:wool_red"
+        ]
+    }
+}
