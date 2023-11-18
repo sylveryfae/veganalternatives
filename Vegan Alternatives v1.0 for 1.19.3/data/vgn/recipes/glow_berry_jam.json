@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		{
+			"item": "glow_berries"
+		},
+		{
+			"item": "glass_bottle"
+		}
+	],
+	"result": {
+		"item": "honey_bottle"
+	}
+}
