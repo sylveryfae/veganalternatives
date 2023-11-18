@@ -1,6 +1,6 @@
 # **Vegan Alternatives**
 (ENG) Minecraft Datapack to add vegan alternatives to minecraft recipes needing them.  
-(FR) Datapack Minecraft pour ajouter des alternatives vegan aux recettes qui en ont besoin (infos en Français plus pas)
+(FR) Datapack Minecraft pour ajouter des alternatives vegan aux recettes qui en ont besoin (infos en Français plus bas)
 
 ## English
 **README.md under construction**, it'll change (I want to put all the images of the recipes here at some point, and work a little more on the page layout)
