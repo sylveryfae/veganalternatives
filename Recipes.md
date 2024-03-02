@@ -43,6 +43,7 @@
 
 ### Wool/Laine
 *usable with every flower in the game. The color of the wool is the color of the dye the flower produces. For small flowers (one block tall) use the first crafting configuration, and for two-tall flowers the second*
+
 *utilisable avec toutes les fleurs du jeu. La couleur de la laine est la couleur que la fleur produit. Pour les petites fleurs (un bloc de haut) utilisez la premiere configuration, et pour les fleurs de deux blocs de haut, la seconde configuration.*
 
 ![image of a minecraft crafting table UI with cornflowers, a blue flower, in the left top, middle top, left middle and middle slots, forming a square. The result of the recipe is blue wool](./Recipes%20screenshots/wool%20blue.png)
