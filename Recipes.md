@@ -30,20 +30,24 @@
 
 ### Coal Ink/Poudre de Charbon
 *alternative to the ink sac. Works with charcoal too / alternative de la poche d'encre. Fonctionne avec le charbon de bois*
+
 ![image of a minecraft crafting table UI with a coal item on the top left slot. The result of the recipe is an ink sac](./Recipes%20screenshots/coal%20ink%20(ink%20sac).png)
 
 ### Glowing Coal Ink/Poudre de Charbon Luisante
 *alternative to the glow ink sac / alternative de la poche d'encre luisante*
+
 ![image of a minecraft crafting table UI with an ink sac on the top left slot and glow lichen in the top middle slot. The result of the recipe is a glow ink sac](./Recipes%20screenshots/glowing%20coal%20ink.png)
 
 ### Wool/Laine
 *usable with every flower in the game. The color of the wool is the color of the dye the flower produces. For small flowers (one block tall) use the first crafting configuration, and for two-tall flowers the second*
 *utilisable avec toutes les fleurs du jeu. La couleur de la laine est la couleur que la fleur produit. Pour les petites fleurs (un bloc de haut) utilisez la premiere configuration, et pour les fleurs de deux blocs de haut, la seconde configuration.*
+
 ![image of a minecraft crafting table UI with cornflowers, a blue flower, in the left top, middle top, left middle and middle slots, forming a square. The result of the recipe is blue wool](./Recipes%20screenshots/wool%20blue.png)
 ![image of a minecraft crafting table UI with sunflowers in the left top and middle top slots. The result of the recipe is yellow wool](./Recipes%20screenshots/wool%20yellow.png)
 
 ### Paper Item Frame/Cadre à base de papier
 *if you prefer using paper instead of beetroot leather / si vous préférez utiliser du papier plutôt que du cuir de betterave*
+
 ![iùmage of a minecraft crafting table UI with paper in the middle slot and stick in every other slots, surrounding it. The result of the recipe is an item frame](./Recipes%20screenshots/paper%20item%20frame.png)
 
 If you have any suggestion on other recipes or other ways of crafting those items, feel free to contact me!
