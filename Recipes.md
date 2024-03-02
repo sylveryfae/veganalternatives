@@ -12,14 +12,17 @@
 
 ### Pumpkin milk/lait de citrouille
 *alternative to the milk bucket / alternative du seau de lait*
+
 ![image of a minecraft crafting table UI with an empy bucket in the middle slot and pumpkin seeds just above. The result of the recipe is a milk bucket](./Recipes%20screenshots/pumpkin%20milk.png)
 
 ### Glow Berry Jam/Confiture de Baies Lumineuses
 *alternative to the honey bottle / alternative de la fiole de miel*
+
 ![image of a minecraft crafting table UI with glow berries in the top left slot and an empty bottle just next to it. The result of the recipe is a honey bottle](./Recipes%20screenshots/glow%20berry%20jam%20(honey%20bottle).png)
 
 ### Caramel (in furnace only/dans le fourneau uniquement)
 *alternative to the honeycomb / alternative du rayon de miel*
+
 ![image of a minecraft furnace UI with a glow berry in the top slot being cooked, and a coal in the bottom slot cooking it. The cooking result is a honeycomb](./Recipes%20screenshots/Caramel%20(Honeycomb).png)
 
 ### Beetroot Leather/Cuir de Betterave
