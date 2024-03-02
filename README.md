@@ -3,9 +3,11 @@
 (FR) Datapack Minecraft pour ajouter des alternatives vegan aux recettes qui en ont besoin (infos en Français plus bas)
 
 ## English
-**README.md under construction**, it'll change (I want to put all the images of the recipes here at some point, and work a little more on the page layout)
+**README.md under construction**, it'll change (I want to put work a little more on the page layout)
 
-All recipes can be unlocked organically in the game in the recipe book, mostly the same way the original non-vegan recipe can be unlocked (I have added ways to unlock the recipes for items or blocks that weren't craftable originally)
+You can find a list of all the new recipes here on the Recipes tab, with images of every recipe and texts explaining it if needed.
+
+All recipes can be unlocked organically in the game in the recipe book, mostly the same way the original non-vegan recipe can be unlocked (I have added ways to unlock the recipes for items or blocks that weren't craftable originally).
 
 No original recipe has been overwritten, so people can play non-veganly even with the datapack installed. **The Datapack only gives the option**, the possibility of playing without killing animals nor using drops from them that mimic physical-world exploitation of animals (like honey, wool, etc). The idea was that it allows the datapack to be used in SMPs (Survival MultiPlayer servers) where not everyone wants to play vegan.
 
@@ -25,7 +27,9 @@ I recommend downloading the Universal Dyeing Datapack from [the Vanilla Tweaks W
 ## Français
 **README.md en travaux**, ça va être amené à changer (je veux mettre toutes les images des recettes ici un jour, et travailler un peu plus sur la mise en page)
 
-Toutes les recettes peuvent être débloquées dans le livre de recettes de façon organique en jouant, la plupart du temps de la même façon que les recettes non-vegan originelles peuvent être débloquées (j'ai rajouté des moyens de débloquer les recettes pour les items et blocs qui n'avaient pas de recette originellement)
+Vous pouvez trouver la liste de toutes les nouvelles recettes ici dans l'onglet Recipes, avec les images de chaque recette et, si nécessaire, un texte apportant des précisions et explications.
+
+Toutes les recettes peuvent être débloquées dans le livre de recettes de façon organique en jouant, la plupart du temps de la même façon que les recettes non-vegan originelles peuvent être débloquées (j'ai rajouté des moyens de débloquer les recettes pour les items et blocs qui n'avaient pas de recette originellement).
 
 Aucune recette originelle n'a été changée, donc c'est possible de jouer de façon non-vegan même avec le datapack installé. **Le Datapack apporte juste l'option**, la possibilité de jouer sans tuer d'animaux ni d'utiliser des items qui reproduisent l'exploitation d'animaux dans le monde physique (comme la laine ou le miel). L'idée étant que ça permet au datapack d'être utilisé dans les SMPs (serveurs MultiJoueuxes de Survie) où des personnes ne veulent pas être contrainxes à jouer vegan.
 
