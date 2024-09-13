@@ -25,7 +25,7 @@ I recommend downloading the Universal Dyeing Datapack from [the Vanilla Tweaks W
 - Put the Datapack (zip file) in the "datapack" folder of your minecraft world, or use the in-game tool if you're in the world creation panel
 
 ## Français
-**README.md en travaux**, ça va être amené à changer (je veux mettre toutes les images des recettes ici un jour, et travailler un peu plus sur la mise en page)
+**README.md en travaux**, ça va être amené à changer (je veux travailler un peu plus sur la mise en page)
 
 Vous pouvez trouver la liste de toutes les nouvelles recettes [ici dans le fichier Recipes](./Recipes.md), avec les images de chaque recette et, si nécessaire, un texte apportant des précisions et explications.
 
