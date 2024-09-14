@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "S ",
+    "PS"
+  ],
+  "key": {
+    "S" : {
+      "item": "sugar"
+    },
+    "P": {
+      "item": "pumpkin"
+    }
+  },
+  "result": {
+    "id": "pumpkin_pie"
+  }
+}

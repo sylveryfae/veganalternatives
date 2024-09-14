@@ -1,0 +1,15 @@
+{
+	"type": "crafting_shapeless",
+	"category": "misc",
+	"ingredients": [
+		{
+			"item": "ink_sac"
+		},
+		{
+			"item": "glow_lichen"
+		}
+	],
+	"result": {
+		"id": "glow_ink_sac"
+	}
+}

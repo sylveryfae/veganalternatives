@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      {
+        "item": "coal"
+      },
+      {
+        "item": "charcoal"
+      }
+    ]
+  ],
+  "result": {
+    "id": "ink_sac"
+  }
+}

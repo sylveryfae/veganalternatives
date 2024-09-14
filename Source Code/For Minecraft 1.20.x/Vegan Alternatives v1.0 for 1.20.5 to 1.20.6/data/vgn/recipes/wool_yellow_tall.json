@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"group": "wool",
+	"pattern": [
+		"FF"
+	],
+	"key": {
+		"F": {
+			"item": "sunflower"
+		}
+	},
+	"result": {
+		"id": "yellow_wool"
+	}
+}

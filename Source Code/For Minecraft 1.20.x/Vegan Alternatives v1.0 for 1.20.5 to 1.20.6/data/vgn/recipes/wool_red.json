@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"group": "wool",
+	"pattern": [
+		"FF",
+		"FF"
+	],
+	"key": {
+		"F": [
+			{
+				"item": "poppy"
+			},
+			{
+				"item": "red_tulip"
+			}
+		]
+	},
+	"result": {
+		"id": "red_wool"
+	}
+}
