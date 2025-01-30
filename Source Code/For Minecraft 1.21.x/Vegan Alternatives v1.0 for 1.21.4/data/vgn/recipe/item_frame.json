@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SSS",
+    "SPS",
+    "SSS"
+  ],
+  "key": {
+    "S": "stick",
+    "P": "paper"
+  },
+  "result": {
+    "id": "item_frame"
+  }
+}

@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+
+	"group": "wool",
+	"pattern": [
+		"FF",
+		"FF"
+	],
+	"key": {
+		"F": "pink_tulip"
+	},
+	"result": {
+		"id": "pink_wool"
+	}
+}
