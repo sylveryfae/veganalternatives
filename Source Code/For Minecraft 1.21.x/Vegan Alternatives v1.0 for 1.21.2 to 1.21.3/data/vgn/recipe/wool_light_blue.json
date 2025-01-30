@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "buidling",
+	"group": "wool",
+	"pattern": [
+		"FF",
+		"FF"
+	],
+	"key": {
+		"F": "blue_orchid"
+	},
+	"result": {
+		"id": "light_blue_wool"
+	}
+}

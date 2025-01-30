@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    "pumpkin_seeds",
+    "bucket"
+  ],
+  "result": {
+    "id": "milk_bucket"
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"group": "wool",
+	"pattern": [
+		"FF"
+	],
+	"key": {
+		"F": "rose_bush"
+	},
+	"result": {
+		"id": "red_wool"
+	}
+}

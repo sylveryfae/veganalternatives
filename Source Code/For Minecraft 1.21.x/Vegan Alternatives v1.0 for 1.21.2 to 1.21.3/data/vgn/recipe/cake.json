@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "category": "food",
+  "pattern": 
+  [
+    "MMM",
+    "SSS",
+    "WWW"
+  ],
+  "key": 
+  {
+    "M": 
+      "milk_bucket",
+    "S": 
+      "sugar",
+    "W": 
+      "wheat"
+  },
+  "result": 
+  {
+    "id": "cake"
+  }
+}

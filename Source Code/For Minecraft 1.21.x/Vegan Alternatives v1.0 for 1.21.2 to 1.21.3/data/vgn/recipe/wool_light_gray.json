@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"group": "wool",
+	"pattern": [
+		"FF",
+		"FF"
+	],
+	"key": {
+		"F": [
+			"azure_bluet",
+			"oxeye_daisy",
+			"white_tulip"
+		]
+	},
+	"result": {
+		"id": "light_gray_wool"
+	}
+}
