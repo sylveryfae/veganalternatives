@@ -1,0 +1,11 @@
+{
+	"type": "smelting",
+	"category": "misc",
+	"ingredient":
+		"glow_berries",
+	"result": {
+		"id": "honeycomb"
+	},
+	"experience": 0.1,
+	"cookingtime": 200
+}
