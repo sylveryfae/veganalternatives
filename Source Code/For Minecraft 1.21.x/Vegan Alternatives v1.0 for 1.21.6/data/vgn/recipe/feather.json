@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " P",
+    "S "
+  ],
+  "key": {
+    "P": 
+      "paper",
+    "S": 
+      "stick"
+  },
+  "result": {
+    "id": "feather"
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"group": "wool",
+	"pattern": [
+		"FF"
+	],
+	"key": {
+		"F": "pitcher_plant"
+	},
+	"result": {
+		"id": "cyan_wool"
+	}
+}
